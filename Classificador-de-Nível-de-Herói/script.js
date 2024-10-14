@@ -20,3 +20,5 @@ if (xpHeroi <= 1000) {
 } else {
     console.log(`O Herói de nome ${nomeHeroi} está no nível Radiante.`);
 }
+
+// Saída esperada, nesse caso que a variavel `xpHeroi` é igual a 5000, é "O Herói de nome Luan_Gameplays está no nível Prata."
